@@ -20,3 +20,17 @@
 9 https://github.com/hdodenhof/CircleImageView
 <br></br>
 10 提供了农历+公历的日期选择模式，同时支持公历+农历的无缝切换 https://github.com/Carbs0126/GregorianLunarCalendar
+<br></br>
+11 农历+公历算法 https://github.com/isee15/Lunar-Solar-Calendar-Converter
+<br></br>
+12 图表 https://github.com/PhilJay/MPAndroidChart
+<br></br>
+13 图表文档 https://github.com/tuteng/MPAndroidChart
+<br></br>
+14 高仿微信可拖拽返回PhotoView https://github.com/githubwing/DragPhotoView
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+
