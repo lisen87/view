@@ -33,6 +33,7 @@
 <br></br>
 16 一个长按扫描 View 上的二维码的工具库。webView 也可以 https://github.com/BolexLiu/PressScanCode
 <br></br>
+17 图形解锁 https://github.com/aritraroy/PatternLockView
 <br></br>
 <br></br>
 
