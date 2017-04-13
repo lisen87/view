@@ -31,6 +31,7 @@
 <br></br>
 15 Android 检索手机目录方式的文件选择器，轻量且界面友好，定制性高 https://github.com/leonHua/LFilePicker
 <br></br>
+16 一个长按扫描 View 上的二维码的工具库。webView 也可以 https://github.com/BolexLiu/PressScanCode
 <br></br>
 <br></br>
 <br></br>
