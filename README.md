@@ -39,7 +39,9 @@
 <br></br>
 19 一款用于在Android设备上获取照片（拍照或从相册、文件中选择）、裁剪图片、压缩图片的开源工具库 https://github.com/crazycodeboy/TakePhoto
 <br></br>
+20 一个颜色逐渐改变的textview，类似歌词效果 https://github.com/livesun/GradientTextView
 <br></br>
+21 阴影效果 https://github.com/harjot-oberai/MaterialShadows
 <br></br>
 <br></br>
 <br></br>
